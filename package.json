@@ -2,7 +2,7 @@
   "name": "projectname",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Giulia Chiola <giulia.chiola@modo.md>",
+  "author": "Giulia Chiola",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

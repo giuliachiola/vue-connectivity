@@ -1,21 +1,43 @@
-# projectname
+# Vue connectivity
 
-> A Vue.js project
+https://www.digitalocean.com/community/tutorials/vuejs-vue-detect-online-offline
 
-## Build Setup
+| \                | \        |
+|------------------|----------|
+| Deploy status    | /        |
+| Deploy preview   | /        |
+| Project typology | 📒  Step by step from tutorial [Online / Offline Detection with Vue.js & v-offline
+](https://www.digitalocean.com/community/tutorials/vuejs-vue-detect-online-offline) |
 
-``` bash
+![project preview](docs/project-preview.png)
+
+## 🔥 Tech stack
+
+| Purpose       | Technology   |
+|:--------------|:-------------|
+| Templating    | VueJS        |
+| Styling       | SCSS + BEMIT |
+| Documentation | Markdown     |
+
+## 🌊 Run development mode
+
+```shell
 # install dependencies
-npm install
+npm i
 
 # serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 🧳 Build setup
+
+```shell
+# build for production
+npm run build
+```
+
+### 🌿 Branches
+
+| Branch name | Use        |
+|:------------|:-----------|
+| `main`      | production |
